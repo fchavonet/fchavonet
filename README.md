@@ -46,24 +46,32 @@
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
+    <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">
+    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge"> 
+</p>
+
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
+    <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
+    <img src="https://img.shields.io/badge/OBSIDIAN-7c3aed?logo=obsidian&logoColor=white&style=for-the-badge" alt="Obsidian badge">
+    <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
+    <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
+    <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity badge">
+    <img src="https://img.shields.io/badge/VS CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">   
+</p>
+
+<br>
+<p align="center">
     <img src="https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=black&style=for-the-badge" alt="C badge">
     <img src="https://img.shields.io/badge/C SHARP-512bd4?logo=csharp&logoColor=white&style=for-the-badge" alt="C Sharp badge">
     <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
-    <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
-    <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
     <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge">
     <img src="https://img.shields.io/badge/MARKDOWN-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown badge">
     <img src="https://img.shields.io/badge/MYSQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge">
-    <img src="https://img.shields.io/badge/OBSIDIAN-7c3aed?logo=obsidian&logoColor=white&style=for-the-badge" alt="Obsidian badge">
-    <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
     <img src="https://img.shields.io/badge/SHELL-000000?logo=powershell&logoColor=white&style=for-the-badge" alt="Shell badge">
-    <img src="https://img.shields.io/badge/UBUNTU-e95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu badge">
-    <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity badge">
-    <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
-    <img src="https://img.shields.io/badge/VS CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
-    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">    
 </p>
 
 ## 📈 Statistics

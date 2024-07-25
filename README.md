@@ -11,7 +11,7 @@
 As a new programming enthusiast, I'm eager to be part of unique challenge !
 
 My career path is far from conventional...
-<br>
+
 From my beginnings as a manager in fast food to managing customer service at SFR, then from my role as a technical expert at Apple to coordinating logistics operations at Tesla, I have consistently taken on new challenges and evolved in dynamic environments.
 
 It's time for me to take a leap of faith and writing a new chapter.

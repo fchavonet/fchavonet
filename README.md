@@ -12,11 +12,7 @@ As a new programming enthusiast, I'm eager to be part of unique challenge !
 
 My career path is far from conventional...
 <br>
-From fast food industry to customer service manager for Internet provider.
-<br>
-From technical expert at Apple to logistics operations coordinator at Tesla.
-<br>
-All my career was about learning and facing new challenges in fast pace environments !
+From my beginnings as a manager in fast food to managing customer service at SFR, then from my role as a technical expert at Apple to coordinating logistics operations at Tesla, I have consistently taken on new challenges and evolved in dynamic environments.
 
 It's time for me to take a leap of faith and writing a new chapter.
 Becoming a software engineer ;)
@@ -74,19 +70,6 @@ Let's talk how I can bring my experience and passion to your projects!
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=fchavonet&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
-</p>
-
-## 📬 How to reach me
-
-<br>
-<p align="center">
-    <a href="https://www.instagram.com/pandolowitz/">
-        <img height="65em" src="https://www.svgrepo.com/show/331440/instagram.svg" alt="Instagram logo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/fchavonet/">
-        <img height="65em" src="https://www.svgrepo.com/show/331463/linkedin.svg" alt="LinkedIn logo">
-    </a>
 </p>
 
 ##

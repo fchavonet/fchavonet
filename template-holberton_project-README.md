@@ -62,7 +62,6 @@ Task instructions.
 <p align="left">
 </p>
 
-
 ## 📂 <span id="files-description">File description</span>
 
 | **FILE**      | **DESCRIPTION**                               |

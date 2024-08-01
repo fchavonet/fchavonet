@@ -14,13 +14,13 @@
         </summary>
 	    📄 <a href="#description">Description</a>
         <br>
+        🎓 <a href="#objectives">Objectives</a>
+        <br>
         🔨 <a href="#tech-stack">Tech stack</a>
         <br>
         📂 <a href="#files-description">Files description</a>
         <br>
         💻 <a href="#installation_and_how_to_use">Installation and how to use</a>
-        <br>
-        🔧 <a href="#whats-next">What's next ?</a>
         <br>
         ♥️ <a href="#thanks">Thanks</a>
         <br>
@@ -30,6 +30,10 @@
 ## 📄 <span id="description">Description</span>
 
 The project description.
+
+## 🎓 <span id="objectives">Objectives</span>
+
+Explain the objectives of this project.
 
 ## 🔨 <span id="tech-stack">Tech stack</span>
 
@@ -70,14 +74,14 @@ The project description.
     <img src="https://img.shields.io/badge/Xcode-147efb?logo=xcode&logoColor=white&style=for-the-badge" alt="Xcode badge">
 </p>
 
-
 ## 📂 <span id="files-description">File description</span>
 
-| **FILE**      | **DESCRIPTION**                               |
-| :-----------: | --------------------------------------------- |
-| `folder_name` | Description of the project in the folder.     | 
-| `file_name`   | Description of the file.                      |
-| `README.md`   | The readme file you are currently reading 😉. |
+| **FILE**      | **DESCRIPTION**                                     |
+| :-----------: | --------------------------------------------------- |
+| `resources`   | Contains the resources required for the repository. |
+| `README.md`   | The readme file you are currently reading 😉.       |
+| `file_name`   | Description of the file.                            |
+| `folder_name` | Description of the project in the folder.           | 
 
 ## 💻 <span id="installation_and_how_to_use">Installation and how to use</span>
 

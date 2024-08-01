@@ -20,6 +20,8 @@
         <br>
         📂 <a href="#files-description">Files description</a>
         <br>
+        📌 <a href="#assets">Assets<a>
+        <br>
         💻 <a href="#installation_and_how_to_use">Installation and how to use</a>
         <br>
         ♥️ <a href="#thanks">Thanks</a>
@@ -81,7 +83,11 @@ Explain the objectives of this project.
 | `resources`   | Contains the resources required for the repository. |
 | `README.md`   | The readme file you are currently reading 😉.       |
 | `file_name`   | Description of the file.                            |
-| `folder_name` | Description of the project in the folder.           | 
+| `folder_name` | Description of the project in the folder.           |
+
+## 📌 <span id="assets">Assets</span>
+
+Showcase assets with links to promote the people who created them.
 
 ## 💻 <span id="installation_and_how_to_use">Installation and how to use</span>
 

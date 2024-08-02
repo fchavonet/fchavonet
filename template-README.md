@@ -24,6 +24,8 @@
         <br>
         💻 <a href="#installation_and_how_to_use">Installation and how to use</a>
         <br>
+        🔧 <a href="#whats-next">What's next ?</a>
+        <br>
         ♥️ <a href="#thanks">Thanks</a>
         <br>
         👷 <a href="#authors">Authors</a>
@@ -63,7 +65,7 @@ Explain the objectives of this project.
     <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white&style=for-the-badge" alt="PHP badge">
     <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
-    <img src="https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=black&style=for-the-badge" alt="Python badge">
+    <img src="https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=black&style=for-the-badge" alt="REACT badge">
     <img src="https://img.shields.io/badge/ROBLOX-000000?logo=roblox&logoColor=white&style=for-the-badge" alt="Roblox badge">
     <img src="https://img.shields.io/badge/ROBLOX STUDIO-00a2ff?logo=robloxstudio&logoColor=white&style=for-the-badge" alt="Roblox Studio badge">
     <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">

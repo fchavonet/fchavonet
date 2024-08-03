@@ -8,6 +8,8 @@
 
 # Project title
 
+## 🔖 Table of contents
+
 <details>
         <summary>
 		CLICK TO ENLARGE 😇

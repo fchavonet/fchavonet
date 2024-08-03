@@ -2,6 +2,8 @@
 
 # Repository name
 
+## 🔖 Table of contents
+
 <details>
     <summary>
 		CLICK TO ENLARGE 😇

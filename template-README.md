@@ -6,6 +6,8 @@
 
 <img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-c.png" alt="C logo">
 
+<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/bootstrap-logo.png" alt="Bootstrap logo">
+
 # Project title
 
 ## 🔖 Table of contents
@@ -46,6 +48,7 @@ Explain the objectives of this project.
 <p align="left">
     <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
     <img src="https://img.shields.io/badge/BLENDER-e87d0d?logo=blender&logoColor=white&style=for-the-badge" alt="Blender badge">
+    <img src="https://img.shields.io/badge/BOOTSTRAP-7952b3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
     <img src="https://img.shields.io/badge/C-a8b9cc?logo=&logoColor=black&style=for-the-badge" alt="C badge">
     <img src="https://img.shields.io/badge/C%23-512bd4?logo=&logoColor=white&style=for-the-badge" alt="C Sharp badge">
     <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">

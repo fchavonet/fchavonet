@@ -50,6 +50,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <br>
 <p align="center">
+    <img src="https://img.shields.io/badge/BOOTSTRAP-7952b3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
     <img src="https://img.shields.io/badge/C-a8b9cc?logo=&logoColor=black&style=for-the-badge" alt="C badge">
     <img src="https://img.shields.io/badge/C%23-512bd4?logo=&logoColor=white&style=for-the-badge" alt="C Sharp badge">
     <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">

@@ -8,7 +8,7 @@
 
 ## 📝 About me
 
-As a new programming enthusiast, I'm eager to be part of unique challenge !
+As a new programming enthusiast, I'm eager to be part of a unique challenge !
 
 My career path is far from conventional...
 

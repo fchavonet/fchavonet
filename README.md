@@ -83,13 +83,7 @@ Let's talk how I can bring my experience and passion to your projects!
 ##
 
 <p align="right">
-    <a href="https://shields.io/">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/fchavonet?style=flat&label=Followers" alt="GitHub followers badge">
-    </a>
-    <a href="https://shields.io/">
-        <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/fchavonet?style=flat&label=Stars" alt="GitHub stars badge">
-    </a>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter/">
-        <img src="https://komarev.com/ghpvc/?username=fchavonet&label=Views" alt="GitHub views badge">
-    </a>
+    <a href="https://shields.io/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/fchavonet?style=flat&label=Followers" alt="GitHub followers badge"></a>
+    <a href="https://shields.io/"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/fchavonet?style=flat&label=Stars" alt="GitHub stars badge"></a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter/"><img src="https://komarev.com/ghpvc/?username=fchavonet&label=Views" alt="GitHub views badge"></a>
 </p>

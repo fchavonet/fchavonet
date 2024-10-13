@@ -99,7 +99,7 @@ Showcase assets with links to promote the people who created them.
 
 ## 💻 <span id="installation_and_how_to_use">Installation and how to use</span>
 
-**Instalation:**
+**Installation:**
 
 1. Clone this repository:
     - Open your preferred Terminal.

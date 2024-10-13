@@ -15,11 +15,11 @@ My career path is far from conventional...
 From my beginnings as a manager in fast food to managing customer service at SFR, then from my role as a technical expert at Apple to coordinating logistics operations at Tesla, I have consistently taken on new challenges and evolved in dynamic environments.
 
 It's time for me to take a leap of faith and writing a new chapter.
-Becoming a software engineer ;)
+Becoming a software engineer 😉.
 
 Thanks to [Holberton School](https://www.holbertonschool.com/), I have built a solid foundation during my first year of learning the fundamentals of development.
 
-Now, I am specializing as a Full-Stack Developer and Software Engineer over the next two years, while working at Holberton School as a Software Engineer.
+Now, I am specializing as a Full-Stack Developer over the next two years, while working at Holberton School as an educational manager in software development.
 
 My unique path underlines my determination to push boundaries and explore new horizons.
 
@@ -31,7 +31,7 @@ Let's talk how I can bring my experience and passion to your projects!
 <p align="center">
     <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
     <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">
-    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge"> 
+    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDIyLjg4NCAyMi44ODQiIHhtbDpzcGFjZT0icHJlc2VydmUiPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8Zz4gPGc+IDxwYXRoIGQ9Ik0xMy4wNDUsMS45OTdsLTEuOTY5LDcuODcyQzguNjgsOC44NjcsNS40NzksOC40MjksMi42NDIsOS4zMDdjMC41NzQtMi41MjIsMS45Ny03LjMxLDEuOTctNy4zMSBDNi42OTgsMC4yODksMTAuNzU2LDAuOTAyLDEzLjA0NSwxLjk5N3oiLz4gPHBhdGggZD0iTTE0LjE4NCwzLjE0NWMyLjE0NywxLjI1Nyw1Ljk0MywxLjY0NSw4LjcsMC44MjJsLTIuMjUxLDcuNTg5Yy0yLjMxMywxLjIyNC02LjczNSwxLjEzMy04LjQzMy0wLjU2M0wxNC4xODQsMy4xNDV6Ii8+IDxwYXRoIGQ9Ik0xMC4zOTgsMTEuNTEzbC0xLjk2Nyw3Ljg3QzUuOTUzLDE4LjI0MywyLjc5NCwxNy40ODEsMCwxOC44MmMwLDAsMS4yOTctNS4wNjksMS45NjYtNy41ODggQzQuMTMxLDkuODg5LDguNDQ0LDEwLjI4NiwxMC4zOTgsMTEuNTEzeiIvPiA8cGF0aCBkPSJNMTEuNzQ2LDEyLjY0MWMyLjE0NywxLjUxOCw1Ljc5NiwxLjc2NCw4LjQ5MywwLjcybC0yLjI0Nyw3LjU5MmMtMi4xNzYsMS40NzktNi40MzMsMS4yNTItOC40MzUtMC4yODFMMTEuNzQ2LDEyLjY0MXoiLz4gPC9nPiA8L2c+IDwvZz4KDTwvc3ZnPg==&logoColor=white&style=for-the-badge" alt="Windows badge">  
 </p>
 
 <br>
@@ -44,7 +44,7 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
     <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity badge">
-    <img src="https://img.shields.io/badge/Visual Studio CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
+     <img src="https://img.shields.io/badge/VS CODE-007acc?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9Ii0wLjUgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4KDTxwYXRoIGQ9Im0xNy44NTggMjMuOTk4LTkuNzcxLTkuNDg0LTUuODY2IDQuNDY1LTIuMjIxLTEuMTE1di0xMS43MTlsMi4yMzQtMS4xMjEgNS44NyA0LjQ2OSA5Ljc0Ny05LjQ5MyA1LjU4NyAyLjIzOXYxOS41MzFsLTUuNTc5IDIuMjN6bS0uNTYzLTE2LjE4Ni01LjU3NyA0LjE3MyA1LjU4IDQuMjAyem0tMTQuNTA3IDEuNjg1djUuMDE2bDIuNzg3LTIuNTI1eiIvPgoNPC9nPgoNPC9zdmc+&logoColor=white&style=for-the-badge" alt="VS Code badge">
     <img src="https://img.shields.io/badge/Xcode-147efb?logo=xcode&logoColor=white&style=for-the-badge" alt="Xcode badge">
 </p>
 
@@ -83,7 +83,13 @@ Let's talk how I can bring my experience and passion to your projects!
 ##
 
 <p align="right">
-    <a href="https://shields.io/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/fchavonet?style=flat&label=Followers" alt="GitHub followers badge"></a>
-    <a href="https://shields.io/"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/fchavonet?style=flat&label=Stars" alt="GitHub stars badge"></a>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter/"><img src="https://komarev.com/ghpvc/?username=fchavonet&label=Views" alt="GitHub views badge"></a>
+    <a href="https://shields.io/">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/fchavonet?style=flat&label=Followers" alt="GitHub followers badge">
+    </a>
+    <a href="https://shields.io/">
+        <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/fchavonet?style=flat&label=Stars" alt="GitHub stars badge">
+    </a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter/">
+        <img src="https://komarev.com/ghpvc/?username=fchavonet&label=Views" alt="GitHub views badge">
+    </a>
 </p>

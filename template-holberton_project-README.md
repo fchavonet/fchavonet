@@ -93,6 +93,14 @@ git clone <link_to_the_repository>
 
 1. How to use instructions.
 
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="">
+        <source media="(prefers-color-scheme: light)" srcset="">
+        <img src="" alt="Screenshots">
+    </picture>
+</p>
+
 ## ♥️ <span id="thanks">Thanks</span>
 
 A big thank you to all my Holberton School peers for their help and support throughout these projects.

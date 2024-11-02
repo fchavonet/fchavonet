@@ -66,7 +66,7 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">
 </p>
 
-## 📈 Statistics
+## 📊 Statistics
 
 <br>
 <p align="center">
@@ -74,11 +74,11 @@ Let's talk how I can bring my experience and passion to your projects!
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="GitHub statistics"></a>
 </p>
 
-##
+## 📈 LeetCode
 
 <br>
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/fchavonet?theme=transparent" alt="LeetCode statistics">
+    <img src="https://leetcard.jacoblin.cool/fchavonet" alt="LeetCode statistics">
 </p>
 
 ##

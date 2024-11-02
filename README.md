@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/banner-darkmode.png">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/banner-lightmode.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/banner-darkmode.png">
         <img src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/banner.png" alt="GitHub profil banner">
     </picture>
 </p>
@@ -78,7 +78,11 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <br>
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/fchavonet" alt="LeetCode statistics">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/fchavonet?theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/fchavonet?theme=dark">
+        <img src="https://leetcard.jacoblin.cool/fchavonet" alt="LeetCode statistics">
+    </picture>
 </p>
 
 ##

@@ -44,7 +44,7 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
     <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity badge">
-     <img src="https://img.shields.io/badge/VS CODE-007acc?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9Ii0wLjUgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4KDTxwYXRoIGQ9Im0xNy44NTggMjMuOTk4LTkuNzcxLTkuNDg0LTUuODY2IDQuNDY1LTIuMjIxLTEuMTE1di0xMS43MTlsMi4yMzQtMS4xMjEgNS44NyA0LjQ2OSA5Ljc0Ny05LjQ5MyA1LjU4NyAyLjIzOXYxOS41MzFsLTUuNTc5IDIuMjN6bS0uNTYzLTE2LjE4Ni01LjU3NyA0LjE3MyA1LjU4IDQuMjAyem0tMTQuNTA3IDEuNjg1djUuMDE2bDIuNzg3LTIuNTI1eiIvPgoNPC9nPgoNPC9zdmc+&logoColor=white&style=for-the-badge" alt="VS Code badge">
+    <img src="https://img.shields.io/badge/VS CODE-007acc?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9Ii0wLjUgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4KDTxwYXRoIGQ9Im0xNy44NTggMjMuOTk4LTkuNzcxLTkuNDg0LTUuODY2IDQuNDY1LTIuMjIxLTEuMTE1di0xMS43MTlsMi4yMzQtMS4xMjEgNS44NyA0LjQ2OSA5Ljc0Ny05LjQ5MyA1LjU4NyAyLjIzOXYxOS41MzFsLTUuNTc5IDIuMjN6bS0uNTYzLTE2LjE4Ni01LjU3NyA0LjE3MyA1LjU4IDQuMjAyem0tMTQuNTA3IDEuNjg1djUuMDE2bDIuNzg3LTIuNTI1eiIvPgoNPC9nPgoNPC9zdmc+&logoColor=white&style=for-the-badge" alt="VS Code badge">
     <img src="https://img.shields.io/badge/Xcode-147efb?logo=xcode&logoColor=white&style=for-the-badge" alt="Xcode badge">
 </p>
 
@@ -70,15 +70,23 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <br>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=fchavonet&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="dislay: block;"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=fchavonet&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="GitHub statistics"></a>
 </p>
 
 ##
 
 <br>
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/fchavonet?theme=transparent" alt="LeetCode statistics">
+</p>
 
-[![Holberton Toulouse](https://blog.holbertonschool.com/wp-content/uploads/2022/01/Capture-decran-2022-01-11-172847.png)](https://www.holbertonschool.fr/campus/toulouse/)
+##
+
+<br>
+<a href="https://www.holbertonschool.fr/campus/toulouse/" target="_blank">
+    <img src="https://blog.holbertonschool.com/wp-content/uploads/2022/01/Capture-decran-2022-01-11-172847.png" alt="">
+</a>
 
 ##
 

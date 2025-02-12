@@ -28,7 +28,7 @@
         <br>
         💻 <a href="#installation_and_how_to_use">Installation and how to use</a>
         <br>
-        🔧 <a href="#whats-next">What's next ?</a>
+        🔧 <a href="#whats-next">What's next?</a>
         <br>
         ♥️ <a href="#thanks">Thanks</a>
         <br>
@@ -68,7 +68,7 @@ Explain the objectives of this project.
     <img src="https://img.shields.io/badge/MYSQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge">
     <img src="https://img.shields.io/badge/NODE.JS-5fa04e?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js badge">
     <img src="https://img.shields.io/badge/OBSIDIAN-7c3aed?logo=obsidian&logoColor=white&style=for-the-badge" alt="Obsidian badge">
-    <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
+    <img src="https://img.shields.io/badge/PHOTOSHOP-011e37?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnIGlkPSIyMDY5YTQ2MGRjZjI4Mjk1ZTIzMWYzMTExZTAzNzU1MiI+IDxwYXRoIGRpc3BsYXk9ImlubGluZSIgZD0iTTQyNi4zMzMsMC41SDg1LjY2N0MzOC44MjUsMC41LDAuNSwzOC44MjUsMC41LDg1LjY2N3YzNDAuNjY3YzAsNDYuODQyLDM4LjMyNSw4NS4xNjcsODUuMTY3LDg1LjE2NyBoMzQwLjY2N2M0Ni44NDIsMCw4NS4xNjctMzguMzI1LDg1LjE2Ny04NS4xNjdWODUuNjY3QzUxMS41LDM4LjgyNSw0NzMuMTc1LDAuNSw0MjYuMzMzLDAuNXogTTI0NS4zMjksMjYwLjUyNCBjLTE3LjczNiwxNy43MzYtNDUuNjExLDI2LjA2NS03Ny4xMDMsMjYuMDY1Yy04LjMyNiwwLTE1LjkyNy0wLjM2NS0yMS43Mi0xLjQ1MXY5MS45NDVoLTQ0LjE1OVYxMzYuMzYzIGMxNS45MjctMi44OTUsMzguMDA5LTUuMDY5LDY4LjA1LTUuMDY5YzMyLjU4MiwwLDU2LjQ3Myw2Ljg3OCw3Mi4wMzksMTkuOTExYzE0LjQ4LDExLjk0NywyMy44OSwzMS4xMzEsMjMuODksNTMuOTM2IEMyNjYuMzI1LDIyOC4zMDksMjU5LjA4NiwyNDcuNDkyLDI0NS4zMjksMjYwLjUyNHogTTMzNy45ODEsMzgwLjcwNmMtMjEuMzU4LDAtNDAuNTQyLTUuMDY5LTUzLjU3NC0xMi4zMWw4LjY4Ny0zMi4yMTYgYzEwLjEzNSw2LjE1NCwyOS4zMjIsMTIuNjcxLDQ1LjI0OSwxMi42NzFjMTkuNTQ1LDAsMjguMjM2LTcuOTY0LDI4LjIzNi0xOS41NDljMC0xMS45NDMtNy4yMzktMTguMDk5LTI4Ljk2LTI1LjcgYy0zNC4zOTEtMTEuOTQ3LTQ4Ljg2Ni0zMC43NjktNDguNTA1LTUxLjQwM2MwLTMxLjEzMSwyNS43LTU1LjM4Myw2Ni42MDQtNTUuMzgzYzE5LjU0OSwwLDM2LjU2Miw1LjA2OSw0Ni42OTUsMTAuNDk2IGwtOC42ODcsMzEuNDkzYy03LjYwMi00LjM0Mi0yMS43MjEtMTAuMTM1LTM3LjI4NS0xMC4xMzVjLTE1LjkyOCwwLTI0LjYxNSw3LjYwMi0yNC42MTUsMTguNDZjMCwxMS4yMjQsOC4zMjYsMTYuNjU1LDMwLjc3LDI0LjYxOCBjMzEuODU0LDExLjU4Miw0Ni42OTYsMjcuODcxLDQ3LjA1OCw1My45MzdDNDA5LjY1MywzNTcuNTM5LDM4NC42NzgsMzgwLjcwNiwzMzcuOTgxLDM4MC43MDZ6IE0yMjEuOCwyMDYuOTUgYzAsMjguNTk4LTIwLjI3Myw0NC44ODctNTMuNTc0LDQ0Ljg4N2MtOS4wNDksMC0xNi4yODktMC4zNjItMjEuNzItMS44MDl2LTgyLjUzNGM0LjcwOC0xLjA4NSwxMy4zOTUtMi4xNzEsMjUuNzA0LTIuMTcxIEMyMDIuOTc5LDE2NS4zMjMsMjIxLjgsMTc5LjgwMywyMjEuOCwyMDYuOTV6Ij4gPC9wYXRoPiA8L2c+IDwvZz4KDTwvc3ZnPg==&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white&style=for-the-badge" alt="PHP badge">
     <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
     <img src="https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=black&style=for-the-badge" alt="REACT badge">
@@ -88,7 +88,7 @@ Explain the objectives of this project.
 
 | **FILE**      | **DESCRIPTION**                                     |
 | :-----------: | --------------------------------------------------- |
-| `resources`   | Contains the resources required for the repository. |
+| `assets`      | Contains the resources required for the repository. |
 | `README.md`   | The readme file you are currently reading 😉.       |
 | `file_name`   | Description of the file.                            |
 | `folder_name` | Description of the project in the folder.           |
@@ -118,7 +118,7 @@ git clone <link_to_the_repository>
 
 1. How to use instructions.
 
-## 🔧 <span id="whats-next">What's next ?</span>
+## 🔧 <span id="whats-next">What's next?</span>
 
 - List of next steps for the project.
 

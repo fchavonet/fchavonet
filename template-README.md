@@ -113,6 +113,7 @@ git clone <link_to_the_repository>
 3. Remaining installation instructions.
 
 **How to use:**
+**How to play:**
 
 1. How to use instructions.
 

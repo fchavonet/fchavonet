@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/banner-lightmode.png">
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/banner-darkmode.png">
-        <img src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/banner.png" alt="GitHub profil banner">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/banner-lightmode.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/banner-darkmode.png">
+        <img src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/banner.png" alt="GitHub profil banner">
     </picture>
 </p>
 

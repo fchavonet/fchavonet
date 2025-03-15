@@ -1,4 +1,4 @@
-<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-holberton_school.png" alt="Holberton School logo">
+<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-holberton_school.png" alt="Holberton School logo">
 
 # Project title
 
@@ -66,11 +66,12 @@ Task instructions.
 
 ## 📂 <span id="files-description">File description</span>
 
-| **FILE**      | **DESCRIPTION**                               |
-| :-----------: | --------------------------------------------- |
-| `folder_name` | Description of the project in the folder.     | 
-| `file_name`   | Description of the file.                      |
-| `README.md`   | The readme file you are currently reading 😉. |
+| **FILE**      | **DESCRIPTION**                                     |
+| :-----------: | --------------------------------------------------- |
+| `assets`      | Contains the resources required for the repository. |
+| `file_name`   | Description of the file.                            |
+| `folder_name` | Description of the project in the folder.           |
+| `README.md`   | The README file you are currently reading 😉.       |
 
 ## 💻 <span id="installation_and_how_to_use">Installation and how to use</span>
 

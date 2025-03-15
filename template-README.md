@@ -1,12 +1,10 @@
-<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-web.png" alt="Web logo">
+<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-c.png" alt="C logo">
 
-<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-unity.png" alt="Unity logo">
+<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-python.png" alt="Python logo">
 
-<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-python.png" alt="Python logo">
+<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-unity.png" alt="Unity logo">
 
-<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-c.png" alt="C logo">
-
-<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/bootstrap-logo.png" alt="Bootstrap logo">
+<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-web.png" alt="Web logo">
 
 # Project title
 
@@ -41,7 +39,7 @@ The project description.
 
 ## 🎓 <span id="objectives">Objectives</span>
 
-Explain the objectives of this project.
+- Objectives list.
 
 ## 🔨 <span id="tech-stack">Tech stack</span>
 
@@ -89,9 +87,9 @@ Explain the objectives of this project.
 | **FILE**      | **DESCRIPTION**                                     |
 | :-----------: | --------------------------------------------------- |
 | `assets`      | Contains the resources required for the repository. |
-| `README.md`   | The readme file you are currently reading 😉.       |
 | `file_name`   | Description of the file.                            |
 | `folder_name` | Description of the project in the folder.           |
+| `README.md`   | The README file you are currently reading 😉.       |
 
 ## 📌 <span id="assets">Assets</span>
 
@@ -118,13 +116,23 @@ git clone <link_to_the_repository>
 
 1. How to use instructions.
 
+You can also test the game online by clicking [here]().
+
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="">
+        <source media="(prefers-color-scheme: light)" srcset="">
+        <img src="" alt="Screenshots">
+    </picture>
+</p>
+
 ## 🔧 <span id="whats-next">What's next?</span>
 
 - List of next steps for the project.
 
 ## ♥️ <span id="thanks">Thanks</span>
 
-- Thank all those who have participated in or helped to carry out the project.
+- I would like to thank all those who participated or helped to carry out this project.
 
 ## 👷 <span id="authors">Authors</span>
 

@@ -6,7 +6,7 @@
 
 <details>
         <summary>
-		CLICK TO ENLARGE 😇
+		    CLICK TO ENLARGE 😇
         </summary>
 	    📄 <a href="#description">Description</a>
         <br>

@@ -28,6 +28,7 @@ The repository description.
 | `assets`      | Contains the resources required for the repository. |
 | `folder_name` | Description of the project in the folder.           | 
 | `file_name`   | Description of the file.                            |
+| `.gitignore`  | Specifies files and folders to be ignored by Git.   |
 | `README.md`   | The readme file you are currently reading 😉.       |
 
 ## ♥️ <span id="thanks">Thanks</span>

@@ -71,6 +71,7 @@ Task instructions.
 | `assets`      | Contains the resources required for the repository. |
 | `file_name`   | Description of the file.                            |
 | `folder_name` | Description of the project in the folder.           |
+| `.gitignore`  | Specifies files and folders to be ignored by Git.   |
 | `README.md`   | The README file you are currently reading 😉.       |
 
 ## 💻 <span id="installation_and_how_to_use">Installation and how to use</span>

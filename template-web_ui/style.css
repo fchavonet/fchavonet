@@ -25,7 +25,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: monospace, sans-serif;
-    font-size: 0.5rem;
+    font-size: 0.75rem;
     transition: background-color 0.3s;
 }
 
@@ -76,7 +76,6 @@ a {
     position: fixed;
     right: 1rem;
     bottom: 1rem;
-    font-size: 0.75rem;
 }
 
 #github-link {
@@ -98,13 +97,13 @@ a {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    font-size: 1rem;
     text-align: center;
     z-index: 9999;
 }
 
 .warning-icons {
-    font-size: 10rem;
+    font-size: 2rem;
+    color: orange;
 }
 
 @media (max-width: 768px) {

@@ -106,7 +106,7 @@ Showcase assets with links to promote the people who created them.
     - Navigate to the directory where you want to clone the repository.
     - Run the following command:
 
-```
+```bash
 git clone <link_to_the_repository>
 ```
 

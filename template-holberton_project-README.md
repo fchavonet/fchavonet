@@ -83,7 +83,7 @@ Task instructions.
     - Navigate to the directory where you want to clone the repository.
     - Run the following command:
 
-```
+```bash
 git clone <link_to_the_repository>
 ```
 

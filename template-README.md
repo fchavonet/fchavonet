@@ -73,7 +73,7 @@ The project description.
     <img src="https://img.shields.io/badge/ROBLOX-000000?logo=roblox&logoColor=white&style=for-the-badge" alt="Roblox badge">
     <img src="https://img.shields.io/badge/ROBLOX STUDIO-00a2ff?logo=robloxstudio&logoColor=white&style=for-the-badge" alt="Roblox Studio badge">
     <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">
-    <img src="https://img.shields.io/badge/TAILWIND CSS-06b6d4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS badge">
+    <img src="https://img.shields.io/badge/TAILWIND-06b6d4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind badge">
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript badge">
     <img src="https://img.shields.io/badge/UBUNTU-e95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu badge">
     <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity badge">
@@ -115,12 +115,13 @@ git clone <link_to_the_repository>
 
 3. Remaining installation instructions.
 
-**How to use:**
 **How to play:**
+**How to use:**
 
 1. How to use instructions.
 
 You can also test the game online by clicking [here]().
+You can also test the web application online by clicking [here](). 
 
 <p align="center">
     <picture>

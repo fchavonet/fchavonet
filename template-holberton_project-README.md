@@ -110,4 +110,4 @@ A big thank you to all my Holberton School peers for their help and support thro
 ## 👷 <span id="authors">Authors</span>
 
 **Fabien CHAVONET**
-- Github: [@fchavonet](https://github.com/fchavonet)
+- GitHub: [@fchavonet](https://github.com/fchavonet)

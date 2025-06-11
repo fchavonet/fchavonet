@@ -29,7 +29,9 @@ The repository description.
 | `folder_name` | Description of the project in the folder.           | 
 | `file_name`   | Description of the file.                            |
 | `.gitignore`  | Specifies files and folders to be ignored by Git.   |
-| `README.md`   | The readme file you are currently reading 😉.       |
+| `README.md`   | The README file you are currently reading 😉.       |
+
+> Each folder contains its own `README.md` file with a detailed explanation.
 
 ## ♥️ <span id="thanks">Thanks</span>
 

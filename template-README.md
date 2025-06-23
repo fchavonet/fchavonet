@@ -22,7 +22,7 @@
     <br>
     📂 <a href="#files-description">Files description</a>
     <br>
-    📌 <a href="#assets">Assets<a>
+    👾 <a href="#assets">Assets<a>
     <br>
     💻 <a href="#installation_and_how_to_use">Installation and how to use</a>
     <br>
@@ -95,7 +95,7 @@ The project description.
 | `CNAME`           | Defines the custom domain name for the website.     |
 | `README.md`       | The README file you are currently reading 😉.       |
 
-## 📌 <span id="assets">Assets</span>
+## 👾 <span id="assets">Assets</span>
 
 Showcase assets with links to promote the people who created them.
 

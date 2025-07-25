@@ -49,6 +49,7 @@ The project description.
 
 <p align="left">
     <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
+    <img src="https://img.shields.io/badge/BASH-4eaa25?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash badge">
     <img src="https://img.shields.io/badge/BLENDER-e87d0d?logo=blender&logoColor=white&style=for-the-badge" alt="Blender badge">
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952b3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
     <img src="https://img.shields.io/badge/C-a8b9cc?logo=&logoColor=black&style=for-the-badge" alt="C badge">
@@ -76,7 +77,6 @@ The project description.
     <img src="https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=black&style=for-the-badge" alt="REACT badge">
     <img src="https://img.shields.io/badge/ROBLOX-000000?logo=roblox&logoColor=white&style=for-the-badge" alt="Roblox badge">
     <img src="https://img.shields.io/badge/ROBLOX STUDIO-00a2ff?logo=robloxstudio&logoColor=white&style=for-the-badge" alt="Roblox Studio badge">
-    <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">
     <img src="https://img.shields.io/badge/TAILWIND-06b6d4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind badge">
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript badge">
     <img src="https://img.shields.io/badge/UBUNTU-e95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu badge">

@@ -21,9 +21,9 @@
 
 The repository description.
 
-## 📂 <span id="files-description">File description</span>
+## 📂 <span id="files-description">Files description</span>
 
-| **FILE**      | **DESCRIPTION**                                     |
+| **FILES**     | **DESCRIPTION**                                     |
 | :-----------: | --------------------------------------------------- |
 | `assets`      | Contains the resources required for the repository. |
 | `folder_name` | Description of the project in the folder.           | 

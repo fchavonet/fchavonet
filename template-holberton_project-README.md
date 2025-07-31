@@ -64,9 +64,9 @@ Task instructions.
 <p align="left">
 </p>
 
-## 📂 <span id="files-description">File description</span>
+## 📂 <span id="files-description">Files description</span>
 
-| **FILE**      | **DESCRIPTION**                                     |
+| **FILES**     | **DESCRIPTION**                                     |
 | :-----------: | --------------------------------------------------- |
 | `assets`      | Contains the resources required for the repository. |
 | `file_name`   | Description of the file.                            |

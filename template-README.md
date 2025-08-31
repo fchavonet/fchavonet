@@ -1,51 +1,39 @@
-<img height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/refs/heads/main/assets/images/logo-bash.png" alt="Bash logo">
-
-<img height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-c.png" alt="C logo">
-
-<img height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-google_chrome.png" alt="Google Chrome logo">
-
-<img height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-python.png" alt="Python logo">
-
-<img height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-unity.png" alt="Unity logo">
-
-<img height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/images/logo-web.png" alt="Web logo">
-
 # Project title
 
-## 🔖 Table of contents
+## Table of contents
 
 <details>
     <summary>
         CLICK TO ENLARGE 😇
     </summary>
-    📄 <a href="#description">Description</a>
+    <a href="#description">Description</a>
     <br>
-    🎓 <a href="#objectives">Objectives</a>
+    <a href="#objectives">Objectives</a>
     <br>
-    🔨 <a href="#tech-stack">Tech stack</a>
+    <a href="#tech-stack">Tech stack</a>
     <br>
-    📂 <a href="#files-description">Files description</a>
+    <a href="#files-description">Files description</a>
     <br>
-    👾 <a href="#assets">Assets<a>
+    <a href="#assets">Assets</a>
     <br>
-    💻 <a href="#installation_and_how_to_use">Installation and how to use</a>
+    <a href="#installation_and_how_to_use">Installation and how to use</a>
     <br>
-    🔧 <a href="#whats-next">What's next?</a>
+    <a href="#whats-next">What's next?</a>
     <br>
-    ♥️ <a href="#thanks">Thanks</a>
+    <a href="#thanks">Thanks</a>
     <br>
-    👷 <a href="#authors">Authors</a>
+    <a href="#authors">Authors</a>
 </details>
 
-## 📄 <span id="description">Description</span>
+## <span id="description">Description</span>
 
 The project description.
 
-## 🎓 <span id="objectives">Objectives</span>
+## <span id="objectives">Objectives</span>
 
 - Objectives list.
 
-## 🔨 <span id="tech-stack">Tech stack</span>
+## <span id="tech-stack">Tech stack</span>
 
 <p align="left">
     <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
@@ -54,7 +42,7 @@ The project description.
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952b3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
     <img src="https://img.shields.io/badge/C-a8b9cc?logo=&logoColor=black&style=for-the-badge" alt="C badge">
     <img src="https://img.shields.io/badge/C%23-512bd4?logo=&logoColor=white&style=for-the-badge" alt="C Sharp badge">
-    <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
+    <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css&logoColor=white&style=for-the-badge" alt="CSS3 badge">
     <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord badge">
     <img src="https://img.shields.io/badge/DOCKER-2496ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker badge">
     <img src="https://img.shields.io/badge/FIGMA-f24e1e?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge">
@@ -94,17 +82,17 @@ The project description.
 | :---------------: | --------------------------------------------------- |
 | `assets`          | Contains the resources required for the repository. |
 | `file_name`       | Description of the file.                            |
-| `folder_name`     | Description of the project in the folder.           |
+| `folder_name`     | Description of the folder contents.                 |
 | `requirements.txt`| List of dependencies required for the script.       |
 | `.gitignore`      | Specifies files and folders to be ignored by Git.   |
 | `CNAME`           | Defines the custom domain name for the website.     |
 | `README.md`       | The README file you are currently reading 😉.       |
 
-## 👾 <span id="assets">Assets</span>
+## <span id="assets">Assets</span>
 
 Showcase assets with links to promote the people who created them.
 
-## 💻 <span id="installation_and_how_to_use">Installation and how to use</span>
+## <span id="installation_and_how_to_use">Installation and how to use</span>
 
 **Installation:**
 
@@ -129,23 +117,38 @@ git clone <link_to_the_repository>
 You can also test the game online by clicking [here]().
 You can also test the web application online by clicking [here](). 
 
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="">
-        <source media="(prefers-color-scheme: light)" srcset="">
-        <img src="" alt="Screenshots">
-    </picture>
-</p>
+<table>
+    <tr>
+        <th align="center" style="text-align: center;">Desktop view</th>
+        <th align="center" style="text-align: center;">Mobile view</th>
+    </tr>
+    <tr valign="top">
+        <td align="center">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="">
+                <source media="(prefers-color-scheme: light)" srcset="">
+                <img src="" alt="Desktop Screenshot" width="100%">
+            </picture>
+        </td>
+        <td align="center">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="">
+                <source media="(prefers-color-scheme: light)" srcset="">
+                <img src="" alt="Mobile Screenshot" width="100%">
+            </picture>
+        </td>
+    </tr>
+</table>
 
-## 🔧 <span id="whats-next">What's next?</span>
+## <span id="whats-next">What's next?</span>
 
 - List of next steps for the project.
 
-## ♥️ <span id="thanks">Thanks</span>
+## <span id="thanks">Thanks</span>
 
 - I would like to thank all those who participated or helped to carry out this project.
 
-## 👷 <span id="authors">Authors</span>
+## <span id="authors">Authors</span>
 
 **Fabien CHAVONET**
 - GitHub: [@fchavonet](https://github.com/fchavonet)

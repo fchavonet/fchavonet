@@ -94,7 +94,7 @@ Task instructions.
 | `requirements.txt`| List of dependencies required for the script.       |
 | `.gitignore`      | Specifies files and folders to be ignored by Git.   |
 | `CNAME`           | Defines the custom domain name for the website.     |
-| `README.md`       | The README file you are currently reading 😉.       |
+| `README.md`       | The README file you are currently reading 😉.      |
 
 ## <span id="installation_and_how_to_use">Installation and how to use</span>
 

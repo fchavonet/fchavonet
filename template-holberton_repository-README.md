@@ -31,7 +31,7 @@ The repository description.
 | `requirements.txt`| List of dependencies required for the script.       |
 | `.gitignore`      | Specifies files and folders to be ignored by Git.   |
 | `CNAME`           | Defines the custom domain name for the website.     |
-| `README.md`       | The README file you are currently reading 😉.       |
+| `README.md`       | The README file you are currently reading 😉.      |
 
 > Each folder contains its own `README.md` file with a detailed explanation.
 

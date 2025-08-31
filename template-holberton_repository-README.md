@@ -23,15 +23,15 @@ The repository description.
 
 ## <span id="files-description">Files description</span>
 
-| **FILES**         | **DESCRIPTION**                                     |
-| :---------------: | --------------------------------------------------- |
-| `assets`          | Contains the resources required for the repository. |
-| `file_name`       | Description of the file.                            |
-| `folder_name`     | Description of the folder contents.                 |
-| `requirements.txt`| List of dependencies required for the script.       |
-| `.gitignore`      | Specifies files and folders to be ignored by Git.   |
-| `CNAME`           | Defines the custom domain name for the website.     |
-| `README.md`       | The README file you are currently reading 😉.      |
+| **FILES**          | **DESCRIPTION**                                     |
+| :----------------: | --------------------------------------------------- |
+| `assets`           | Contains the resources required for the repository. |
+| `file_name`        | Description of the file.                            |
+| `folder_name`      | Description of the folder contents.                 |
+| `requirements.txt` | List of dependencies required for the script.       |
+| `.gitignore`       | Specifies files and folders to be ignored by Git.   |
+| `CNAME`            | Defines the custom domain name for the website.     |
+| `README.md`        | The README file you are currently reading 😉.      |
 
 > Each folder contains its own `README.md` file with a detailed explanation.
 

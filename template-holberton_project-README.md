@@ -86,19 +86,19 @@ Task instructions.
 
 ## <span id="files-description">Files description</span>
 
-| **FILES**         | **DESCRIPTION**                                     |
-| :---------------: | --------------------------------------------------- |
-| `assets`          | Contains the resources required for the repository. |
-| `file_name`       | Description of the file.                            |
-| `folder_name`     | Description of the folder contents.                 |
-| `requirements.txt`| List of dependencies required for the script.       |
-| `.gitignore`      | Specifies files and folders to be ignored by Git.   |
-| `CNAME`           | Defines the custom domain name for the website.     |
-| `README.md`       | The README file you are currently reading 😉.      |
+| **FILES**          | **DESCRIPTION**                                     |
+| :----------------: | --------------------------------------------------- |
+| `assets`           | Contains the resources required for the repository. |
+| `file_name`        | Description of the file.                            |
+| `folder_name`      | Description of the folder contents.                 |
+| `requirements.txt` | List of dependencies required for the script.       |
+| `.gitignore`       | Specifies files and folders to be ignored by Git.   |
+| `CNAME`            | Defines the custom domain name for the website.     |
+| `README.md`        | The README file you are currently reading 😉.      |
 
 ## <span id="installation_and_how_to_use">Installation and how to use</span>
 
-**Installation:**
+### Installation:
 
 1. Clone this repository:
     - Open your preferred Terminal.
@@ -113,7 +113,7 @@ git clone <link_to_the_repository>
 
 3. Remaining installation instructions.
 
-**How to use:**
+### How to use:
 
 1. How to use instructions.
 

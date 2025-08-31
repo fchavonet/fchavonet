@@ -55,6 +55,7 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
     <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
     <img src="https://img.shields.io/badge/MYSQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge">
+    <img src="https://img.shields.io/badge/MONGODB-47a248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge">
     <img src="https://img.shields.io/badge/DOCKER-2496ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker badge">
 </p>
 

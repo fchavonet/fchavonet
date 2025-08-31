@@ -43,6 +43,26 @@ At the end of this project, I should be able to explain to anyone, **without the
 
 ## <span id="instructions">Instructions</span>
 
+### Mandatory
+
+<details>
+	<summary>
+		<b>Task title</b>
+	</summary>
+	<br>
+
+Task instructions.
+
+#
+**Repo:**
+- GitHub repository: `repository_name`.
+- Directory: `directory_name`.
+- File: `file_name`.
+<hr>
+</details>
+
+### Advanced
+
 <details>
 	<summary>
 		<b>Task title</b>
@@ -99,22 +119,22 @@ git clone <link_to_the_repository>
 
 <table>
     <tr>
-        <th align="center" style="text-align: center;">Desktop view</th>
-        <th align="center" style="text-align: center;">Mobile view</th>
+        <th align="center">Desktop view</th>
+        <th align="center">Mobile view</th>
     </tr>
     <tr valign="top">
         <td align="center">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="">
                 <source media="(prefers-color-scheme: light)" srcset="">
-                <img src="" alt="Desktop Screenshot" width="100%">
+                <img width="100%" src="" alt="Desktop Screenshot">
             </picture>
         </td>
         <td align="center">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="">
                 <source media="(prefers-color-scheme: light)" srcset="">
-                <img src="" alt="Mobile Screenshot" width="100%">
+                <img width="100%" src="" alt="Mobile Screenshot">
             </picture>
         </td>
     </tr>

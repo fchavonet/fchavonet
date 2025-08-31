@@ -37,7 +37,7 @@ The repository description.
 
 ## <span id="thanks">Thanks</span>
 
-A big thank you to all my Holberton School peers for their help and support throughout these projects.
+- A big thank you to all my Holberton School peers for their help and support throughout these projects.
 
 ## <span id="authors">Authors</span>
 

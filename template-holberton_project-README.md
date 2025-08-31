@@ -142,7 +142,7 @@ git clone <link_to_the_repository>
 
 ## <span id="thanks">Thanks</span>
 
-A big thank you to all my Holberton School peers for their help and support throughout this project.
+- A big thank you to all my Holberton School peers for their help and support throughout this project.
 
 ## <span id="authors">Authors</span>
 

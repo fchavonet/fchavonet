@@ -76,7 +76,7 @@ The project description.
     <img src="https://img.shields.io/badge/Xcode-147efb?logo=xcode&logoColor=white&style=for-the-badge" alt="Xcode badge">
 </p>
 
-## 📂 <span id="files-description">Files description</span>
+## <span id="files-description">Files description</span>
 
 | **FILES**         | **DESCRIPTION**                                     |
 | :---------------: | --------------------------------------------------- |

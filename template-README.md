@@ -94,7 +94,7 @@ Showcase assets with links to promote the people who created them.
 
 ## <span id="installation_and_how_to_use">Installation and how to use</span>
 
-### Installation:
+### Installation
 
 1. Clone this repository:
     - Open your preferred Terminal.
@@ -109,8 +109,8 @@ git clone <link_to_the_repository>
 
 3. Remaining installation instructions.
 
-### How to play:
-### How to use:
+### How to play
+### How to use
 
 1. How to use instructions.
 

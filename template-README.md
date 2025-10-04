@@ -65,6 +65,7 @@ The project description.
     <img src="https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=black&style=for-the-badge" alt="REACT badge">
     <img src="https://img.shields.io/badge/ROBLOX-000000?logo=roblox&logoColor=white&style=for-the-badge" alt="Roblox badge">
     <img src="https://img.shields.io/badge/ROBLOX STUDIO-00a2ff?logo=robloxstudio&logoColor=white&style=for-the-badge" alt="Roblox Studio badge">
+    <img src="https://img.shields.io/badge/Supabase-3fcf8e?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase badge">
     <img src="https://img.shields.io/badge/TAILWIND-06b6d4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind badge">
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript badge">
     <img src="https://img.shields.io/badge/UBUNTU-e95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu badge">

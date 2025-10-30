@@ -2,46 +2,21 @@
 
 # Project title
 
-## Table of contents
-
-<details>
-    <summary>
-        CLICK TO ENLARGE 😇
-    </summary>
-    <a href="#description">Description</a>
-    <br>
-    <a href="#objectives">Objectives</a>
-    <br>
-    <a href="#requirements">Requirements</a>
-    <br>
-    <a href="#instructions">Instructions</a>
-    <br>
-    <a href="#tech-stack">Tech stack</a>
-    <br>
-    <a href="#files-description">Files description</a>
-    <br>
-    <a href="#installation_and_how_to_use">Installation and how to use</a>
-    <br>
-    <a href="#thanks">Thanks</a>
-    <br>
-    <a href="#authors">Authors</a>
-</details>
-
-## <span id="description">Description</span>
+## Description
 
 The project description.
 
-## <span id="objectives">Objectives</span>
+## Objectives
 
 At the end of this project, I should be able to explain to anyone, **without the help of Google**:
 
 - Objectives list.
 
-## <span id="requirements">Requirements</span>
+## Requirements
 
 - Requirements list.
 
-## <span id="instructions">Instructions</span>
+## Instructions
 
 ### Mandatory
 
@@ -79,24 +54,26 @@ Task instructions.
 <hr>
 </details>
 
-## <span id="tech-stack">Tech stack</span>
+## Tech Stack
 
-<p align="left">
-</p>
+## File Description
 
-## <span id="files-description">Files description</span>
+| **FILE**            | **DESCRIPTION**                                                |
+| :-----------------: | --------------------------------------------------------------- |
+| `file_name`         | Description of the file.                                        |
+| `folder_name`       | Description of the folder contents.                             |
+| `assets`            | Contains the resources required for the repository.             |
+| `public`            | Contains the public resources required for the repository.      |
+| `vite.config.js`    | Vite configuration for development and building.                |
+| `package.json`      | Dependencies and scripts configuration.                         |
+| `package-lock.json` | Automatically generated file locking exact dependency versions. |
+| `eslint.config.js`  | Linter configuration to enforce code quality.                   |
+| `requirements.txt`  | List of dependencies required for the script.                   |
+| `.gitignore`        | Specifies files and folders to be ignored by Git.               |
+| `CNAME`             | Defines the custom domain name for the website.                 |
+| `README.md`         | The README file you are currently reading 😉.                   |
 
-| **FILES**          | **DESCRIPTION**                                     |
-| :----------------: | --------------------------------------------------- |
-| `assets`           | Contains the resources required for the repository. |
-| `file_name`        | Description of the file.                            |
-| `folder_name`      | Description of the folder contents.                 |
-| `requirements.txt` | List of dependencies required for the script.       |
-| `.gitignore`       | Specifies files and folders to be ignored by Git.   |
-| `CNAME`            | Defines the custom domain name for the website.     |
-| `README.md`        | The README file you are currently reading 😉.      |
-
-## <span id="installation_and_how_to_use">Installation and how to use</span>
+## Installation & Usage
 
 ### Installation
 
@@ -105,46 +82,56 @@ Task instructions.
     - Navigate to the directory where you want to clone the repository.
     - Run the following command:
 
-```bash
+```
 git clone <link_to_the_repository>
 ```
 
-2. Open the repository you've just cloned.
+2. Open the cloned repository.
 
 3. Remaining installation instructions.
 
-### How to use
+### Usage
 
 1. How to use instructions.
 
-<table>
+![Screenshot]()
+
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="">
+        <source media="(prefers-color-scheme: dark)" srcset="">
+        <img width="100%" src="" alt="Screenshot">
+    </picture>
+</p>
+
+<table align="center">
     <tr>
-        <th align="center">Desktop view</th>
-        <th align="center">Mobile view</th>
+        <th align="center" style="text-align: center;">Desktop view</th>
+        <th align="center" style="text-align: center;">Mobile view</th>
     </tr>
     <tr valign="top">
         <td align="center">
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="">
                 <source media="(prefers-color-scheme: light)" srcset="">
+                <source media="(prefers-color-scheme: dark)" srcset="">
                 <img width="100%" src="" alt="Desktop Screenshot">
             </picture>
         </td>
         <td align="center">
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="">
                 <source media="(prefers-color-scheme: light)" srcset="">
+                <source media="(prefers-color-scheme: dark)" srcset="">
                 <img width="100%" src="" alt="Mobile Screenshot">
             </picture>
         </td>
     </tr>
 </table>
 
-## <span id="thanks">Thanks</span>
+## What's Next?
 
 - A big thank you to all my Holberton School peers for their help and support throughout this project.
 
-## <span id="authors">Authors</span>
+## Author(s)
 
 **Fabien CHAVONET**
 - GitHub: [@fchavonet](https://github.com/fchavonet)

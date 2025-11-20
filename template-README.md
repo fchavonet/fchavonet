@@ -57,7 +57,7 @@ The project description.
 
 ## File Description
 
-| **FILE**            | **DESCRIPTION**                                                |
+| **FILE**            | **DESCRIPTION**                                                 |
 | :-----------------: | --------------------------------------------------------------- |
 | `file_name`         | Description of the file.                                        |
 | `folder_name`       | Description of the folder contents.                             |

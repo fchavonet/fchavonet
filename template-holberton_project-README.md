@@ -129,6 +129,10 @@ git clone <link_to_the_repository>
 
 ## What's Next?
 
+- 
+
+## Thanks
+
 - A big thank you to all my Holberton School peers for their help and support throughout this project.
 
 ## Author(s)

@@ -1,0 +1,12 @@
+@plugin "daisyui" {
+    themes: light --default, black;
+}
+
+:root:has(input.theme-controller[value="black"]:checked) .tooltip,
+:root:has(input.theme-controller[value="black"]:checked) .tooltip::before {
+    border-radius: 0.25rem !important;
+}
+
+.tooltip::after {
+    display: none !important;
+}

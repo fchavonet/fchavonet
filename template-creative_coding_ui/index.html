@@ -23,43 +23,45 @@
 </head>
 
 <body>
-    <!-- Top container -->
-    <div class="fixed top-0 left-0 w-full h-auto px-8 py-6 flex flex-row justify-end items-center">
-        <!-- Toggle mode button -->
-        <label class="swap swap-rotate">
-            <input type="checkbox" class="theme-controller" value="black" />
-            <i class="bi bi-sun-fill swap-on"></i>
-            <i class="bi bi-moon-stars-fill swap-off"></i>
-        </label>
-    </div>
-
-    <!-- Bottom container -->
-    <div class="fixed left-0  bottom-0 w-full h-auto px-8 py-6 flex flex-row justify-between items-center">
-        <!-- GitHub link -->
-        <a class="tooltip tooltip-right" data-tip="Click to visit the GitHub repository." href="https://github.com/fchavonet/fchavonet" target="_blank">
-            <img src="https://img.shields.io/github/stars/fchavonet/fchavonet?style=social&label=GitHub%20Stars" alt="GitHub Stars">
-        </a>
-
-        <!-- Portfolio link -->
-        <a class="link link-hover text-xs" href="https://www.fchavonet.dev" target="_blank">
-            www.fchavonet.dev
-        </a>
-    </div>
-
-    <!-- Responsive Warning -->
-    <dialog id="responsive-warning" class="modal backdrop-blur-xl">
-        <div class="modal-box max-w-xs flex flex-col justify-center items-center gap-4 text-center rounded-xl bg-base-300">
-            <i class="bi bi-aspect-ratio text-4xl"></i>
-
-            <p class="text-lg font-semibold -mt-2">
-                This web application is designed for larger screens.
-            </p>
-
-            <p class="text-xs">
-                A mobile-friendly version is coming soon...
-            </p>
+    <main>
+        <!-- Top container -->
+        <div class="fixed top-0 left-0 w-full h-auto px-8 py-6 flex flex-row justify-end items-center">
+            <!-- Toggle mode button -->
+            <label class="swap swap-rotate">
+                <input type="checkbox" class="theme-controller" value="black" />
+                <i class="bi bi-sun-fill swap-on"></i>
+                <i class="bi bi-moon-stars-fill swap-off"></i>
+            </label>
         </div>
-    </dialog>
+
+        <!-- Bottom container -->
+        <div class="fixed left-0  bottom-0 w-full h-auto px-8 py-6 flex flex-row justify-between items-center">
+            <!-- GitHub link -->
+            <a class="tooltip tooltip-right" data-tip="Click to visit the GitHub repository." href="https://github.com/fchavonet/fchavonet" target="_blank">
+                <img src="https://img.shields.io/github/stars/fchavonet/fchavonet?style=social&label=GitHub%20Stars" alt="GitHub Stars">
+            </a>
+
+            <!-- Portfolio link -->
+            <a class="link link-hover text-xs" href="https://www.fchavonet.dev" target="_blank">
+                www.fchavonet.dev
+            </a>
+        </div>
+
+        <!-- Responsive Warning -->
+        <dialog id="responsive-warning" class="modal backdrop-blur-xl">
+            <div class="modal-box max-w-xs flex flex-col justify-center items-center gap-4 text-center rounded-xl bg-base-300">
+                <i class="bi bi-aspect-ratio text-4xl"></i>
+
+                <p class="text-lg font-semibold -mt-2">
+                    This web application is designed for larger screens.
+                </p>
+
+                <p class="text-xs">
+                    A mobile-friendly version is coming soon...
+                </p>
+            </div>
+        </dialog>
+    </main>
 </body>
 
 </html>

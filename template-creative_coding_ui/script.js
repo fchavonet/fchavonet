@@ -1,6 +1,6 @@
-/*******************************
- * RESPONSIVE WARNING BEHAVIOR *
- ******************************/
+/******************************
+* RESPONSIVE WARNING BEHAVIOR *
+******************************/
 
 const responsiveWarning = document.getElementById("responsive-warning");
 // Enable/disable responsive warning.

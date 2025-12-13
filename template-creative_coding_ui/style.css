@@ -1,3 +1,4 @@
+/* DAISYUI */
 @plugin "daisyui" {
     themes: light --default, black;
 }

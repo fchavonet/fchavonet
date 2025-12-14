@@ -8,22 +8,17 @@
 
 ## About me
 
-As a new programming enthusiast, I'm eager to be part of a unique challenge!
+After an unconventional and experience-rich career path, I am now fully dedicated to Full Stack development.
 
-My career path is far from conventional...
+Trained at [Holberton School](https://www.holbertonschool.fr/), I leverage my creativity, rigor, and adaptability to build modern, meaningful web solutions.
 
-From my beginnings as a manager in fast food to managing customer service at SFR, then from my role as a technical expert at Apple to coordinating logistics operations at Tesla, I have consistently taken on new challenges and evolved in dynamic environments.
+I have relearned how to learn, this is the key takeaway I retain from the [methodology](https://www.holbertonschool.fr/methodologie) used throughout my training.
 
-It's time for me to take a leap of faith and write a new chapter.
-Becoming a software engineer 😉.
+Three intensive years, including an internship followed by two years of work-study, have allowed me to acquire solid technical foundations and genuine autonomy.
 
-Thanks to [Holberton School](https://www.holbertonschool.com/), I have built a solid foundation during my first year of learning the fundamentals of development.
+My previous professional background has also given me essential human skills: active listening, teamwork, high standards of quality, and strong attention to detail.
 
-Now, I am specializing as a Full-Stack Developer until July 2026, while working at Holberton School as an educational manager in software development.
-
-My unique path underlines my determination to push boundaries and explore new horizons.
-
-Let's talk how I can bring my experience and passion to your projects!
+My objective is to join, starting in July 2026, a team where intellectual challenge and the creation of useful solutions go hand in hand with strong human values.
 
 ## Tech stack
 
@@ -46,11 +41,15 @@ Let's talk how I can bring my experience and passion to your projects!
 ![REACT badge](https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=black&style=for-the-badge)
 ![Bootstrap badge](https://img.shields.io/badge/BOOTSTRAP-7952b3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![TailwindCSS badge](https://img.shields.io/badge/TAILWINDCSS-06b6d4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Git badge](https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
+![Dart badge](https://img.shields.io/badge/Dart-0175c2?logo=dart&logoColor=white&style=for-the-badge)
+![Flutter badge](https://img.shields.io/badge/Flutter-02569b?logo=flutter&logoColor=white&style=for-the-badge)
+![Swift badge](https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=for-the-badge)
 ![MySQL badge](https://img.shields.io/badge/MYSQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL badge](https://img.shields.io/badge/POSTGRESQL-4169e1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Docker badge](https://img.shields.io/badge/DOCKER-2496ed?logo=docker&logoColor=white&style=for-the-badge)
+
+![Git badge](https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ## Statistics
 

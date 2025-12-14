@@ -9,11 +9,11 @@
 ## About me
 
 After an unconventional and experience-rich career path, I am now fully dedicated to Full Stack development.
-
+<br>
 Trained at [Holberton School](https://www.holbertonschool.fr/), I leverage my creativity, rigor, and adaptability to build modern, meaningful web solutions.
 
 I have relearned how to learn, this is the key takeaway I retain from the [methodology](https://www.holbertonschool.fr/methodologie) used throughout my training.
-
+<br>
 Three intensive years, including an internship followed by two years of work-study, have allowed me to acquire solid technical foundations and genuine autonomy.
 
 My previous professional background has also given me essential human skills: active listening, teamwork, high standards of quality, and strong attention to detail.

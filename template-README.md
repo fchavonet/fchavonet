@@ -22,6 +22,7 @@ The project description.
 ![Discord badge](https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge)
 ![Docker badge](https://img.shields.io/badge/DOCKER-2496ed?logo=docker&logoColor=white&style=for-the-badge)
 ![Figma badge](https://img.shields.io/badge/FIGMA-f24e1e?logo=figma&logoColor=white&style=for-the-badge)
+![Firebase badge](https://img.shields.io/badge/FIREBASE-dd2c00?logo=firebase&logoColor=white&style=for-the-badge)
 ![Flask badge](https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![Flutter badge](https://img.shields.io/badge/Flutter-02569b?logo=flutter&logoColor=white&style=for-the-badge)
 ![Git badge](https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge)

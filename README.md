@@ -61,15 +61,6 @@ My objective is to join, starting in July 2026, a team where intellectual challe
 
 ##
 
-<br>
-<p align="center">
-    <a href="https://www.holbertonschool.fr/campus/toulouse/" target="_blank">
-        <img src="./assets/images/banner-holberton_toulouse.webp" alt="Holberton Toulouse Banner">
-    </a>
-</p>
-
-##
-
 <p align="right">
     <a href="https://shields.io/"><img src="https://img.shields.io/github/followers/fchavonet?style=flat&label=Followers" alt="GitHub followers badge"></a>
     <a href="https://shields.io/"><img src="https://img.shields.io/github/stars/fchavonet?style=flat&label=Stars" alt="GitHub stars badge"></a>

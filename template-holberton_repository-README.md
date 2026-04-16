@@ -19,6 +19,7 @@ The repository description.
 | `package-lock.json` | Automatically generated file locking exact dependency versions. |
 | `eslint.config.js`  | Linter configuration to enforce code quality.                   |
 | `requirements.txt`  | List of dependencies required for the script.                   |
+| `.github`           | GitHub configuration files (workflows, templates...).           |
 | `.gitignore`        | Specifies files and folders to be ignored by Git.               |
 | `CNAME`             | Defines the custom domain name for the website.                 |
 | `README.md`         | The README file you are currently reading 😉.                   |

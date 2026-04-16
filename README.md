@@ -1,11 +1,3 @@
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="./assets/images/banner-lightmode.webp">
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/images/banner-darkmode.webp">
-        <img src="./assets/images/banner.webp" alt="GitHub profile banner">
-    </picture>
-</p>
-
 ## About me
 
 After an unconventional professional journey, I joined [Holberton School](https://www.holbertonschool.fr/) in Toulouse, where I completed an intensive training program, followed by a work-study experience as a Software Engineer.

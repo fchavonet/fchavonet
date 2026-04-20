@@ -1,3 +1,5 @@
+# 👋 Hello World!
+
 ## About me
 
 After an unconventional professional journey, I joined [Holberton School](https://www.holbertonschool.fr/) in Toulouse, where I completed an intensive training program, followed by a work-study experience as a Software Engineer.

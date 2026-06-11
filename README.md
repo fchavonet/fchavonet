@@ -45,7 +45,6 @@ Today, I continue to grow by contributing to real-world projects while helping o
 ##
 
 <p align="right">
-    <a href="https://shields.io/"><img src="https://img.shields.io/github/followers/fchavonet?style=flat&label=Followers" alt="GitHub followers badge"></a>
     <a href="https://shields.io/"><img src="https://img.shields.io/github/stars/fchavonet?style=flat&label=Stars" alt="GitHub stars badge"></a>
     <a href="https://github.com/antonkomarev/github-profile-views-counter/"><img src="https://komarev.com/ghpvc/?username=fchavonet&label=Views" alt="GitHub views badge"></a>
 </p>

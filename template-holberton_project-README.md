@@ -140,3 +140,4 @@ git clone <link_to_the_repository>
 
 **Fabien CHAVONET**
 - GitHub: [@fchavonet](https://github.com/fchavonet)
+- LinkedIn: https://www.linkedin.com/in/fchavonet/

@@ -34,3 +34,4 @@ The repository description.
 
 **Fabien CHAVONET**
 - GitHub: [@fchavonet](https://github.com/fchavonet)
+- LinkedIn: https://www.linkedin.com/in/fchavonet/

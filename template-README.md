@@ -172,4 +172,4 @@ You can also test the project online by clicking [here]().
 
 **Fabien CHAVONET**
 - GitHub: [@fchavonet](https://github.com/fchavonet)
-- LinkedIn: https://www.linkedin.com/in/fchavonet/
+- LinkedIn: [Fabien Chavonet](https://www.linkedin.com/in/fchavonet/)

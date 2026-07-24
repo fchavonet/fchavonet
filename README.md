@@ -38,7 +38,7 @@ Today, I continue to grow by contributing to real-world projects while helping o
 
 <br>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;"><img height="145em" src="https://fchavonet-githubreadmestats.vercel.app/api?username=fchavonet&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
+    <a href="https://github.com/stats-organization/github-stats-extended" style="display: block;"><img height="145em" src="https://github-stats-extended.vercel.app/api?username=fchavonet&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://fchavonet-githubreadmestats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="GitHub statistics"></a>
 </p>
 

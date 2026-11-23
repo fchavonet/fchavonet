@@ -28,6 +28,7 @@ The project description.
 ![Flutter badge](https://img.shields.io/badge/Flutter-02569b?logo=flutter&logoColor=white&style=for-the-badge)
 ![Git badge](https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
+![Godot badge](https://img.shields.io/badge/GODOT-478cbf?logo=godotengine&logoColor=white&style=for-the-badge)
 ![HTML5 badge](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
 ![JavaScript badge](https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
 ![JSON badge](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge)

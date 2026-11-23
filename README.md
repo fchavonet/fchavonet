@@ -2,15 +2,13 @@
 
 ## About me
 
-After an unconventional professional journey, I joined Holberton School in Toulouse, where I completed an intensive training program, followed by a work-study experience as a Software Engineer.
+Full Stack Developer with an unconventional professional background, I worked in various environments, including Apple and Tesla, before transitioning into software development at Holberton School in Toulouse.
 
-Even before the end of my training, I was offered a full-time position, allowing me to continue working within Holberton School.
+I quickly joined the teaching team as a Software Engineering Coach, first as an intern and then as a work-study student. Through student mentoring, project supervision, and tool development, I gained valuable technical and interpersonal experience, which led to a full-time job offer at the Dijon campus before completing my training.
 
-I later took on responsibility for the Machine Learning specialization across France.
+With a background in graphic design, I'm equally passionate about code and design. Having learned to code without AI, I now use it to take on more ambitious projects independently, while maintaining control over their design and development.
 
-These experiences have enabled me to build strong technical foundations while also developing my adaptability, problem-solving skills, and ability to support others.
-
-Today, I continue to grow by contributing to real-world projects while helping others progress in their own journeys.
+Now back in Brittany, France, I'm focusing on personal projects while exploring freelance opportunities.
 
 ## Tech stack
 
@@ -24,6 +22,7 @@ Today, I continue to grow by contributing to real-world projects while helping o
 ![Flask badge](https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![Git badge](https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
+![Godot badge](https://img.shields.io/badge/GODOT-478cbf?logo=godotengine&logoColor=white&style=for-the-badge)
 ![JavaScript badge](https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5 badge](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
 ![Markdown badge](https://img.shields.io/badge/MARKDOWN-000000?logo=markdown&logoColor=white&style=for-the-badge)
@@ -36,6 +35,7 @@ Today, I continue to grow by contributing to real-world projects while helping o
 ![Python badge](https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge)
 ![REACT badge](https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=black&style=for-the-badge)
 ![Supabase badge](https://img.shields.io/badge/SUPABASE-3fcf8e?logo=supabase&logoColor=white&style=for-the-badge)
+![Swift badge](https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=for-the-badge)
 ![Tailwind CSS badge](https://img.shields.io/badge/TAILWIND&nbsp;CSS-06b6d4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Three.js badge](https://img.shields.io/badge/THREE.JS-000000?logo=threedotjs&logoColor=white&style=for-the-badge)
 ![TypeScript badge](https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
